@@ -13,3 +13,18 @@
 	url = https://github.com/bd-r/bdclean
 	shallow = true
 	registered = true
+[submodule "bdDwC"]
+	path = bdDwC
+	url = https://github.com/bd-R/bdDwC
+	shallow = true
+	registered = false
+[submodule "bdutilities"]
+	path = bdutilities
+	url = https://github.com/bd-R/bdutilities
+	shallow = true
+	registered = false
+[submodule "bdutilities.app"]
+	path = bdutilities.app
+	url = https://github.com/bd-R/bdutilities.app
+	shallow = true
+	registered = false

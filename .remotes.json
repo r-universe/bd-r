@@ -1,0 +1,38 @@
+[
+  {
+    "package": "bdDwC",
+    "url": "https://github.com/bd-R/bdDwC",
+    "via": ["bdclean"],
+    "from": "bdclean"
+  },
+  {
+    "package": "bdDwC",
+    "url": "https://github.com/bd-R/bdDwC",
+    "via": ["bdclean", "bdutilities.app"],
+    "from": "bdclean"
+  },
+  {
+    "package": "bdchecks",
+    "url": "https://github.com/bd-R/bdchecks",
+    "via": ["bdclean"],
+    "from": "bdclean"
+  },
+  {
+    "package": "bdutilities",
+    "url": "https://github.com/bd-R/bdutilities",
+    "via": ["bdclean"],
+    "from": "bdclean"
+  },
+  {
+    "package": "bdutilities",
+    "url": "https://github.com/bd-R/bdutilities",
+    "via": ["bdclean", "bdutilities.app"],
+    "from": "bdclean"
+  },
+  {
+    "package": "bdutilities.app",
+    "url": "https://github.com/bd-R/bdutilities.app",
+    "via": ["bdclean"],
+    "from": "bdclean"
+  }
+]
