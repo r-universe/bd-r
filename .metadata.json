@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bdchecks",
+    "oncran": true
+  },
+  {
+    "package": "bdclean",
+    "oncran": true
+  }
+]

@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bdchecks"]
+	path = bdchecks
+	url = https://github.com/bd-r/bdchecks
+	shallow = true
+	registered = true
+[submodule "bdclean"]
+	path = bdclean
+	url = https://github.com/bd-r/bdclean
+	shallow = true
+	registered = true
